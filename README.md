@@ -13,6 +13,10 @@ This is the repo for Noffence. The repo contains the following files.
 - baselines.ipynb
     
     Jupyter Notebook that used to train three baseline models
+    
+- CNN.ipynb
+    
+    Jupyter Notebook that used to train CNN model
 
 - BERT.ipynb
 
