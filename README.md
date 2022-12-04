@@ -19,7 +19,7 @@ This is the repo for Noffence. The repo contains the following files.
     
 - baselines_with_old_data.ipynb
     
-    Jupyter Notebook for train three baseline models with pre-supplement data
+    Jupyter Notebook for train three baseline models with undersample dataset
     
     
 - CNN.ipynb
@@ -30,16 +30,26 @@ This is the repo for Noffence. The repo contains the following files.
 - GPT2.ipynb
 
     Jupyter Notebook for GPT2 model implementation
+    
+    
+- BERT_GRU_with_old_data.ipynb
 
+    Jupyter Notebook for BERT model with GRU blocks implementation with undersample dataset
+
+
+- BERT_GRU.ipynb
+
+    Jupyter Notebook for BERT model with GRU blocks implementation
+    
 
 - BERT_base.ipynb
 
     Jupyter Notebook for BERT model implementation
     
-    
-- BERT_GRU.ipynb
 
-    Jupyter Notebook for BERT model with GRU blocks implementation
+- BERT_CNN.ipynb
+
+    Jupyter Notebook for BERT model with CNN blocks implementation
     
     
     
