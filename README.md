@@ -44,7 +44,7 @@ This is the repo for Noffence. The repo contains the following files.
 
 - BERT_base.ipynb
 
-    Jupyter Notebook for BERT model implementation
+    Jupyter Notebook for BERT basic model implementation
     
 
 - BERT_CNN.ipynb
