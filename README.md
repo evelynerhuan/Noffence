@@ -6,6 +6,8 @@ Noffence is a project focused on the detection of hate speech and offensive lang
 
 Hate speech is a growing concern due to its rapid spread on social media and other online platforms. This project aims to develop a responsive, flexible, and privacy-conscious solution for detecting hate speech automatically. Unlike conventional human censorship, our approach leverages advanced machine learning techniques to improve detection accuracy while protecting user privacy.
 
+![Overall Workflow for Project ](images/overall_workflow.jpg)
+
 ## Repository Structure
 
 - **data/**  
@@ -29,7 +31,7 @@ Hate speech is a growing concern due to its rapid spread on social media and oth
 
  The following picture shows the architecture of our model. 
 
-![BERT Architectures with Potential Classification Layer ](bert_gru.jpg)
+![BERT Architectures with Potential Classification Layer](images/bert_gru.jpg)
 
 ## Models and Methodology
 
